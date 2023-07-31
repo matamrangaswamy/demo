@@ -1,5 +1,3 @@
-package Numbers;
-
 public class BiggestValue {
 public static void main(String[] args) {
 	int a=6;
